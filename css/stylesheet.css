@@ -1,0 +1,43 @@
+body {
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+}
+
+.title {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.mainpoints {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.subpoints {
+    color: rgb(78, 77, 77);
+    font-size: smaller;
+}
+
+.tableau {
+    left: 75px;
+    height: 60%;
+    width: 60%;
+}
+
+.footer {
+    color: rgb(97, 3, 105);
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    text-align: left;
+    padding-top: 90px;
+}
